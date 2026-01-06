@@ -4,14 +4,16 @@ A curated list of **HS Code (Harmonized System) APIs** available online.
 
 > Note: This is an **informational index**, not an endorsement of any specific provider.
 
----
+
+
 
 ## What is an HS Code?
 
 The **Harmonized System (HS)** is an internationally standardized system of product classification maintained by the World Customs Organization (WCO).  
 HS Codes are widely used in **customs declarations**, **tariff calculations**, **trade compliance**, and **logistics systems**.
 
----
+
+
 
 ## HS Code APIs
 
@@ -22,7 +24,8 @@ HS Codes are widely used in **customs declarations**, **tariff calculations**, *
 | _Example: Country Customs Authority_ | Country-specific | Official | Free | Link | Limited access or approval required |
 
 
----
+
+
 
 
 ## Disclaimer
@@ -30,7 +33,8 @@ HS Codes are widely used in **customs declarations**, **tariff calculations**, *
 This repository is provided for **informational purposes only**.  
 HS Code classification and tariff determination may carry legal and financial implications. Always verify data against official customs authorities when required.
 
----
+
+
 
 ## License
 
