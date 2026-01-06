@@ -18,7 +18,7 @@ HS Codes are widely used in **customs declarations**, **tariff calculations**, *
 ## HS Code APIs
 
 | Provider | Coverage | Auth | Notes |
-|--------|----------|------|--------|------|------|
+|--------|----------|----------|--------|
 | **[TariffNumber.com](https://www.tariffnumber.com/services/api)** | Europe | No | - |
 | **[HSCIQ](https://api.hsciq.com/Home/InstanceInfo)** | China | `apiKey` | Pay to access |
 | **[TradeWindow](https://developer.tradewindow.io/devportal/apis/f431259b-e488-4a98-ac8e-c91a2da96e51/documents/default)** | Unknown | `OAuth` | For Tradewindow.io integration only |
