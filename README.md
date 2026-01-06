@@ -21,6 +21,7 @@ HS Codes are widely used in **customs declarations**, **tariff calculations**, *
 |--------|----------|----------|--------|
 | **[TariffNumber.com](https://www.tariffnumber.com/services/api)** | Europe | No | Open |
 | **[HSCIQ](https://api.hsciq.com/Home/InstanceInfo)** | China | `apiKey` | Pay to access |
+| **[Easyship](https://developers.easyship.com/reference/hs_code_index)** | WTO | `Bearer` | Via Easyship API |
 | **[Hurricane Commerce](https://hurricanecommerce.com/solutions/hs-code-classification/)** | Unknown | Unknown | Hurricane customers only |
 | **[TradeWindow](https://developer.tradewindow.io/devportal/apis/f431259b-e488-4a98-ac8e-c91a2da96e51/documents/default)** | Unknown | `OAuth` | For Tradewindow.io integration only |
 
