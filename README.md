@@ -17,12 +17,12 @@ HS Codes are widely used in **customs declarations**, **tariff calculations**, *
 
 ## HS Code APIs
 
-| Provider | Coverage | Auth | Access | API Scope |
-|--------|----------|----------|--------|--------|
-| **[TariffNumber.com](https://www.tariffnumber.com/services/api)** | Europe | No | Open | Tariff numbers, custom offices, customs related terms, duty & trade measures |
-| **[HSCIQ](https://api.hsciq.com/Home/InstanceInfo)** | China | `apiKey` | Pay to access | HS code | 
-| **[Hurricane Commerce](https://hurricanecommerce.com/solutions/hs-code-classification/)** | Unknown | Unknown | Hurricane customers only | HS code |
-| **[TradeWindow](https://developer.tradewindow.io/devportal/apis/f431259b-e488-4a98-ac8e-c91a2da96e51/documents/default)** | Unknown | `OAuth` | For Tradewindow.io integration only | HS code | 
+| Provider | Coverage | Auth | Access |
+|--------|----------|----------|--------|
+| **[TariffNumber.com](https://www.tariffnumber.com/services/api)** | Europe | No | Open |
+| **[HSCIQ](https://api.hsciq.com/Home/InstanceInfo)** | China | `apiKey` | Pay to access |
+| **[Hurricane Commerce](https://hurricanecommerce.com/solutions/hs-code-classification/)** | Unknown | Unknown | Hurricane customers only |
+| **[TradeWindow](https://developer.tradewindow.io/devportal/apis/f431259b-e488-4a98-ac8e-c91a2da96e51/documents/default)** | Unknown | `OAuth` | For Tradewindow.io integration only |
 
 
 <br >
