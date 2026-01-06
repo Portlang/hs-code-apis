@@ -20,6 +20,7 @@ HS Codes are widely used in **customs declarations**, **tariff calculations**, *
 | Provider | Coverage | Auth | Access |
 |--------|----------|----------|--------|
 | **[TariffNumber.com](https://www.tariffnumber.com/services/api)** | Europe | No | Open |
+| **[HS Code by AppCon](https://rapidapi.com/appcon-software-appcon-software-default/api/hs-code-harmonized-system)** | Unknown | `RapidAPI Key` | Free |
 | **[HSCIQ](https://api.hsciq.com/Home/InstanceInfo)** | China | `apiKey` | Pay to access |
 | **[Easyship](https://developers.easyship.com/reference/hs_code_index)** | WTO | `Bearer` | Via Easyship API |
 | **[Hurricane Commerce](https://hurricanecommerce.com/solutions/hs-code-classification/)** | Unknown | Unknown | Hurricane customers only |
