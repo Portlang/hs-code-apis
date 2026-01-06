@@ -40,11 +40,3 @@ HS Code classification and tariff determination may carry legal and financial im
 ## License
 
 This repository is licensed under the **MIT License**, unless stated otherwise.
-
-<br >
-<br >
-
-## Maintainer
-
-Maintained by the community.  
-If you are an API provider and wish to be listed or updated, feel free to open an issue or pull request.
