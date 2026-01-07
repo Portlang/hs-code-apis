@@ -16,16 +16,25 @@ HS Codes are widely used in **customs declarations**, **tariff calculations**, *
 <br >
 
 ## HS Code APIs
+### Trade & Tariff HS Code APIs
+APIs where HS codes and tariff data are primary, first-class resources, often used for classification, compliance, or internal systems.
 
 | Provider | Coverage | Auth | Access |
 |--------|----------|----------|--------|
 | **[TariffNumber.com](https://www.tariffnumber.com/services/api)** | Europe | No | Open |
 | **[HS Code by AppCon](https://rapidapi.com/appcon-software-appcon-software-default/api/hs-code-harmonized-system)** | Unknown | `RapidAPI Key` | Free |
 | **[HSCIQ](https://api.hsciq.com/Home/InstanceInfo)** | China | `apiKey` | Pay to access |
-| **[Easyship](https://developers.easyship.com/reference/hs_code_index)** | WTO | `Bearer` | Via Easyship API |
 | **[Hurricane Commerce](https://hurricanecommerce.com/solutions/hs-code-classification/)** | Unknown | Unknown | Hurricane customers only |
-| **[TradeWindow](https://developer.tradewindow.io/devportal/apis/f431259b-e488-4a98-ac8e-c91a2da96e51/documents/default)** | Unknown | `OAuth` | For Tradewindow.io integration only |
 
+<br>
+<br>
+
+### Shipping & Logistics HS Code APIs
+APIs focused on shipping or logistics workflows, where HS code lookup is provided to support quoting, booking, or compliance processes.
+| Provider | Coverage | Auth | Access |
+|--------|----------|----------|--------|
+| **[Easyship](https://developers.easyship.com/reference/hs_code_index)** | WTO | `Bearer` | Via Easyship API |
+| **[TradeWindow](https://developer.tradewindow.io/devportal/apis/f431259b-e488-4a98-ac8e-c91a2da96e51/documents/default)** | Unknown | `OAuth` | For Tradewindow.io integration only |
 
 <br >
 <br >
