@@ -25,6 +25,8 @@ APIs where HS codes and tariff data are primary, first-class resources, often us
 | **[HS Code by AppCon](https://rapidapi.com/appcon-software-appcon-software-default/api/hs-code-harmonized-system)** | Unknown | `RapidAPI Key` | Free |
 | **[HSCIQ](https://api.hsciq.com/Home/InstanceInfo)** | China | `apiKey` | Pay to access |
 | **[Hurricane Commerce](https://hurricanecommerce.com/solutions/hs-code-classification/)** | Unknown | Unknown | Hurricane customers only |
+| **[Taric Support](https://www.taricsupport.com/api/))** | Europe | Unknown | Taric Support customers only. Free trial available upon request |
+| **[HS Ping](https://hsping.com))** | North America, AU, SG, UK | `apiKey` | HS Ping customers only. Free plan available. |
 
 <br>
 <br>
