@@ -1,6 +1,7 @@
 # HS Code APIs List
 
 A curated list of **HS Code (Harmonized System) APIs** available online.
+On national level, HS Code could also be known as classification code, tariff code, HTS code, trade code, commodity code etc. This doc uses HS code to represent all such variations.
 
 > Note: This is an **informational index**, not an endorsement of any specific provider.
 
